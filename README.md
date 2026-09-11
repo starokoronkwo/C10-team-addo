@@ -39,6 +39,7 @@ We explored supplementing the dataset with external complaint sources and synthe
 
 ### Hyperparameter search
 No formal search (grid/random) was conducted given timeline constraints. We used standard DistilBERT defaults, adjusting only epoch count (2 → 5) for our small dataset. Systematic tuning is noted as future work.
+
 ---
 
 ## 📈 Evaluation
